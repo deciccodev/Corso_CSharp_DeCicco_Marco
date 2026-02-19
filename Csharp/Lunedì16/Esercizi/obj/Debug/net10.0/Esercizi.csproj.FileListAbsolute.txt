@@ -1,0 +1,14 @@
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\bin\Debug\net10.0\Esercizi.exe
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\bin\Debug\net10.0\Esercizi.deps.json
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\bin\Debug\net10.0\Esercizi.runtimeconfig.json
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\bin\Debug\net10.0\Esercizi.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\bin\Debug\net10.0\Esercizi.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.AssemblyInfoInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.AssemblyInfo.cs
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\refint\Esercizi.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\Esercizi.genruntimeconfig.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\Esercizi\obj\Debug\net10.0\ref\Esercizi.dll

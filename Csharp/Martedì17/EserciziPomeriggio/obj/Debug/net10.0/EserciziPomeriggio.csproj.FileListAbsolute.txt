@@ -1,0 +1,14 @@
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.exe
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.deps.json
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.runtimeconfig.json
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.AssemblyInfoInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.AssemblyInfo.cs
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.csproj.CoreCompileInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\refint\EserciziPomeriggio.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.genruntimeconfig.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\EserciziPomeriggio\obj\Debug\net10.0\ref\EserciziPomeriggio.dll

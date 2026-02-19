@@ -1,0 +1,14 @@
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\bin\Debug\net10.0\StrutturaIf.exe
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\bin\Debug\net10.0\StrutturaIf.deps.json
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\bin\Debug\net10.0\StrutturaIf.runtimeconfig.json
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\bin\Debug\net10.0\StrutturaIf.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\bin\Debug\net10.0\StrutturaIf.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.AssemblyInfoInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.AssemblyInfo.cs
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.csproj.CoreCompileInputs.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\refint\StrutturaIf.dll
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.pdb
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\StrutturaIf.genruntimeconfig.cache
+C:\Users\decic\Desktop\Csharp\Martedì17\StrutturaIf\obj\Debug\net10.0\ref\StrutturaIf.dll
