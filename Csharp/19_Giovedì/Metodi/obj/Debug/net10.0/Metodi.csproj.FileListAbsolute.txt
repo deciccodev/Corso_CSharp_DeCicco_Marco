@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\bin\Debug\net10.0\Metodi.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\bin\Debug\net10.0\Metodi.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\bin\Debug\net10.0\Metodi.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\bin\Debug\net10.0\Metodi.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\bin\Debug\net10.0\Metodi.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\refint\Metodi.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\Metodi.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì\Metodi\obj\Debug\net10.0\ref\Metodi.dll
