@@ -107,7 +107,7 @@ class Metodi_pt2
 
     public static void Raddoppia(ref int numero)
     {
-        numero *= numero;
+        numero *= 2;
     }
 
     public static void AggiustaData(ref int giorno, ref int mese, ref int anno)
