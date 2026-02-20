@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\bin\Debug\net10.0\Metodi_pt2.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\bin\Debug\net10.0\Metodi_pt2.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\bin\Debug\net10.0\Metodi_pt2.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\bin\Debug\net10.0\Metodi_pt2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\bin\Debug\net10.0\Metodi_pt2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\refint\Metodi_pt2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\Metodi_pt2.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\20_Venerdì\Metodi_pt2\obj\Debug\net10.0\ref\Metodi_pt2.dll

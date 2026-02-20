@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\18_Mercoledì\\EserciziPomeriggio\\EserciziPomeriggio.csproj": {}
+    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\20_Venerdì\\Metodi_pt2\\Metodi_pt2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\18_Mercoledì\\EserciziPomeriggio\\EserciziPomeriggio.csproj": {
+    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\20_Venerdì\\Metodi_pt2\\Metodi_pt2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\18_Mercoledì\\EserciziPomeriggio\\EserciziPomeriggio.csproj",
-        "projectName": "EserciziPomeriggio",
-        "projectPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\18_Mercoledì\\EserciziPomeriggio\\EserciziPomeriggio.csproj",
+        "projectUniqueName": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\20_Venerdì\\Metodi_pt2\\Metodi_pt2.csproj",
+        "projectName": "Metodi_pt2",
+        "projectPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\20_Venerdì\\Metodi_pt2\\Metodi_pt2.csproj",
         "packagesPath": "C:\\Users\\decic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\18_Mercoledì\\EserciziPomeriggio\\obj\\",
+        "outputPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\20_Venerdì\\Metodi_pt2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\decic\\AppData\\Roaming\\NuGet\\NuGet.Config"
