@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\bin\Debug\net10.0\EserciziMatrici.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\bin\Debug\net10.0\EserciziMatrici.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\bin\Debug\net10.0\EserciziMatrici.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\bin\Debug\net10.0\EserciziMatrici.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\bin\Debug\net10.0\EserciziMatrici.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\refint\EserciziMatrici.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\EserciziMatrici.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\24_02_Martedì\Mattina\Esercizi\EserciziMatrici\obj\Debug\net10.0\ref\EserciziMatrici.dll

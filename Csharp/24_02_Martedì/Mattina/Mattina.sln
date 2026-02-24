@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrici", "Matrici\Matrici.csproj", "{1E25F384-8E17-0368-AD04-369FFA29340A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E25F384-8E17-0368-AD04-369FFA29340A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E25F384-8E17-0368-AD04-369FFA29340A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E25F384-8E17-0368-AD04-369FFA29340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E25F384-8E17-0368-AD04-369FFA29340A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4785D125-F665-499E-92C1-58E83CE841E6}
+	EndGlobalSection
+EndGlobal
