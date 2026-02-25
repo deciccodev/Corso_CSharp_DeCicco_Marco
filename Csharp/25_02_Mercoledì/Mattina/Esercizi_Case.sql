@@ -2,7 +2,7 @@ select Name AS Nazione,
     case 
         when SurfaceArea > 100000 then 'Sì' 
         else 'No' 
-    end as Superficie_maggiore_100k,
+    end as Maggiore_100k,
     coalesce(IndepYear, 'Non presente') as Anno_Indipendenza
 from country;
 

@@ -1,0 +1,17 @@
+Artisti_Singoli e band: id_artista(PK), sponsor(FK), alias, tipo[enum("singolo", "band")]
+
+Performance_live: id_performance(PK), id_artista(FK), id_sponsor(FK), id palco(FK), id_staff(FK), data_inizio, data_fine
+
+Palchi: Biglietti: id_biglietto(PK), id_performance(FK), prezzo, tipo[enum("base", "vip")]
+
+Biglietti: id_biglietto(PK), id_performance(FK), prezzo, tipo[enum("base", "vip")]
+
+Spettatori:
+
+Sponsor: id_sponsor(PK), nome
+
+Collaborazioni: id_performance(FK), id_artista(FK) // Contiene artisti che collaborano con l'artista principale di Performance_live
+
+Pagamenti: id_pagamento(PK), id_spettatore(FK)
+
+Staff tecnico:
