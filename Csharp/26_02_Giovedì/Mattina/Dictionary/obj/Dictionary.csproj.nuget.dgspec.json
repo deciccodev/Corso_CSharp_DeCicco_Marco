@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\17_02_Martedì\\EserciziPomeriggio\\EserciziPomeriggio.csproj": {}
+    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\26_02_Giovedì\\Mattina\\Dictionary\\Dictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\17_02_Martedì\\EserciziPomeriggio\\EserciziPomeriggio.csproj": {
+    "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\26_02_Giovedì\\Mattina\\Dictionary\\Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\17_02_Martedì\\EserciziPomeriggio\\EserciziPomeriggio.csproj",
-        "projectName": "EserciziPomeriggio",
-        "projectPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\17_02_Martedì\\EserciziPomeriggio\\EserciziPomeriggio.csproj",
+        "projectUniqueName": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\26_02_Giovedì\\Mattina\\Dictionary\\Dictionary.csproj",
+        "projectName": "Dictionary",
+        "projectPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\26_02_Giovedì\\Mattina\\Dictionary\\Dictionary.csproj",
         "packagesPath": "C:\\Users\\decic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\17_02_Martedì\\EserciziPomeriggio\\obj\\",
+        "outputPath": "C:\\Users\\decic\\Documents\\GitHub\\Corso_CSharp_DeCicco_Marco\\Csharp\\26_02_Giovedì\\Mattina\\Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\decic\\AppData\\Roaming\\NuGet\\NuGet.Config"
