@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\bin\Debug\net10.0\Classi2.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\bin\Debug\net10.0\Classi2.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\bin\Debug\net10.0\Classi2.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\bin\Debug\net10.0\Classi2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\bin\Debug\net10.0\Classi2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\refint\Classi2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\Classi2.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Mattina\Classi2\obj\Debug\net10.0\ref\Classi2.dll
