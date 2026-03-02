@@ -1,40 +1,48 @@
 public class VoloAereo
 {
-    const int MAX_POSTI = 150;
-    public string codiceVolo;
-    private int _postiOccupati = 0, _postiLiberi = 140;
+    private const int MAX_POSTI = 150;
+    private int _postiOccupati = 0;
+
+    public string CodiceVolo { get; set; }
 
     public int PostiOccupati
     {
         get { return _postiOccupati; }
-        set {if (_postiOccupati < 140) _postiOccupati = MAX_POSTI - PostiLiberi;}
     }
 
     public int PostiLiberi
     {
-        get { return _postiLiberi; }
-        set {if (_postiLiberi >= 140) _postiLiberi = MAX_POSTI - PostiOccupati;}
+        get { return MAX_POSTI - _postiOccupati; }
     }
 
     public void EffettuaPrenotazione(int numeroPosti)
     {
-        if (numeroPosti < _postiOccupati)
+        if (numeroPosti > 0 && numeroPosti <= PostiLiberi)
         {
-            PostiOccupati+= numeroPosti;
-            PostiLiberi-= numeroPosti;
-            Console.WriteLine($"Prenotazione effettuata con successo! posti ancora disponibili: {PostiLiberi}");
+            _postiOccupati += numeroPosti;
+            Console.WriteLine($"Prenotazione effettuata! Posti ancora disponibili: {PostiLiberi}");
+        }
+        else
+        {
+            Console.WriteLine($"Prenotazione non possibile. Posti liberi: {PostiLiberi}");
         }
     }
 
     public void AnnullaPrenotazione(int numeroPosti)
     {
-        PostiOccupati-= numeroPosti;
-        PostiLiberi+= numeroPosti;
-        Console.WriteLine($"Prenotazione annullata con successo! posti ancora disponibili: {PostiLiberi}");
+        if (numeroPosti > 0 && numeroPosti <= _postiOccupati)
+        {
+            _postiOccupati -= numeroPosti;
+            Console.WriteLine($"Prenotazione annullata! Posti ancora disponibili: {PostiLiberi}");
+        }
+        else
+        {
+            Console.WriteLine($"Annullamento non valido. Posti occupati: {PostiOccupati}");
+        }
     }
 
     public void VisualizzaStato()
     {
-        Console.WriteLine($"Codice volo: {codiceVolo}, posti occupati: {PostiOccupati}, posti liberi: {PostiLiberi}");
+        Console.WriteLine($"Codice volo: {CodiceVolo} | Posti occupati: {PostiOccupati} | Posti liberi: {PostiLiberi}");
     }
 }
