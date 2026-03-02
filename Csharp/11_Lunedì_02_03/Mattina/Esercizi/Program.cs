@@ -87,12 +87,8 @@ public class Program
     }
 
     Console.WriteLine("\n=== RISULTATO FINALE ===");
-    Console.WriteLine("Utente: " + utente.nome);
-    Console.WriteLine("Credito rimasto: " + utente.credito);
-    Console.WriteLine("Motore: " + utente.macchina.motore);
-    Console.WriteLine("Velocità: " + utente.macchina.velocitaMac);
-    Console.WriteLine("Sospensioni: " + utente.macchina.sospensioniMax);
-    Console.WriteLine("Numero modifiche: " + utente.macchina.nrModifiche);
+    Console.WriteLine(utente);
+    Console.WriteLine(utente.macchina);
 }
 }
 
