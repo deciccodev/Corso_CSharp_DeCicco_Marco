@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\bin\Debug\net10.0\EsercizioVoloAereo.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\bin\Debug\net10.0\EsercizioVoloAereo.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\bin\Debug\net10.0\EsercizioVoloAereo.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\bin\Debug\net10.0\EsercizioVoloAereo.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\bin\Debug\net10.0\EsercizioVoloAereo.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\refint\EsercizioVoloAereo.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\EsercizioVoloAereo.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EsercizioVoloAereo\obj\Debug\net10.0\ref\EsercizioVoloAereo.dll

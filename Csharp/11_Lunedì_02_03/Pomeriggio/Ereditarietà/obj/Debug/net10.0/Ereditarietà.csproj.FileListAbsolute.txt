@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\bin\Debug\net10.0\Ereditarietà.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\bin\Debug\net10.0\Ereditarietà.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\bin\Debug\net10.0\Ereditarietà.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\bin\Debug\net10.0\Ereditarietà.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\bin\Debug\net10.0\Ereditarietà.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\refint\Ereditarietà.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\Ereditarietà.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\Ereditarietà\obj\Debug\net10.0\ref\Ereditarietà.dll
