@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\bin\Debug\net10.0\EserciziPomeriggio.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\refint\EserciziPomeriggio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\EserciziPomeriggio.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\11_Lunedì_02_03\Pomeriggio\EserciziPomeriggio\obj\Debug\net10.0\ref\EserciziPomeriggio.dll
