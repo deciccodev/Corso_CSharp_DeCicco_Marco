@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\bin\Debug\net10.0\Esercizio_Polimorfismo_2.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\bin\Debug\net10.0\Esercizio_Polimorfismo_2.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\bin\Debug\net10.0\Esercizio_Polimorfismo_2.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\bin\Debug\net10.0\Esercizio_Polimorfismo_2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\bin\Debug\net10.0\Esercizio_Polimorfismo_2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\refint\Esercizio_Polimorfismo_2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\Esercizio_Polimorfismo_2.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Esercizio_Polimorfismo_2\obj\Debug\net10.0\ref\Esercizio_Polimorfismo_2.dll
