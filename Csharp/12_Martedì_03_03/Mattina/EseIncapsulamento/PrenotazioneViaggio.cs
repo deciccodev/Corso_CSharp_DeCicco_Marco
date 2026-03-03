@@ -58,28 +58,25 @@ public class PrenotazioneViaggio
         }
     }
 
-    public void PrenotaVolo()
+    public void PrenotaVolo(Action<int> delegatoPrenota, Action<int> delegatoAnnulla)
     {
-        Console.Write("Inserisci destinazione volo: ");
-        string destinazione = Console.ReadLine();
-
-        PrenotazioneViaggio prenota = new PrenotazioneViaggio(destinazione);
-
-        Console.WriteLine($"destinazione volo: {prenota.Destinazione}");
-        Console.WriteLine($"posti disponibili prima della prenotazione: {prenota.PostiDisponibili}");
+        Console.WriteLine($"destinazione volo: {Destinazione}");
+        Console.WriteLine($"posti disponibili prima della prenotazione: {PostiDisponibili}");
 
         Console.Write("Quanti posti prenotare?: ");
         int postiPrenotazione = int.Parse(Console.ReadLine());
         Console.WriteLine();
 
-        prenota.PrenotaPosti(postiPrenotazione);
-        Console.WriteLine($"posti disponibili dopo della prenotazione: {prenota.PostiDisponibili}");
+        delegatoPrenota(postiPrenotazione);
+
+        Console.WriteLine($"posti disponibili dopo della prenotazione: {PostiDisponibili}");
 
         Console.Write("Quanti posti annullare?: ");
         int annullaPosti = int.Parse(Console.ReadLine());
         Console.WriteLine();
 
-        prenota.AnnullaPrenotazione(annullaPosti);
-        Console.WriteLine($"posti disponibili dopo annullo prenotazione: {prenota.PostiDisponibili}");
+        delegatoAnnulla(annullaPosti);
+
+        Console.WriteLine($"posti disponibili dopo annullo prenotazione: {PostiDisponibili}");
     }
 }
