@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\bin\Debug\net10.0\Two_Rules_Esercizio.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\bin\Debug\net10.0\Two_Rules_Esercizio.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\bin\Debug\net10.0\Two_Rules_Esercizio.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\bin\Debug\net10.0\Two_Rules_Esercizio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\bin\Debug\net10.0\Two_Rules_Esercizio.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\refint\Two_Rules_Esercizio.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\Two_Rules_Esercizio.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\12_Martedì_03_03\Pomeriggio\Two_Rules_Esercizio\obj\Debug\net10.0\ref\Two_Rules_Esercizio.dll
