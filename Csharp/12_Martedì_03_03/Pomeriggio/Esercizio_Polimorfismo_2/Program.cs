@@ -27,7 +27,7 @@ public class Program
                     string nomeOp = Console.ReadLine();
                     Console.Write("Inserisci turno operatore (giorno/notte): ");
                     string turnoOp = Console.ReadLine();
-                    Console.Write("1. Emergenza \n 2. Sicurezza \n3. Logistica \nInserisci tipo di operatore: ");
+                    Console.Write("1. Emergenza \n2. Sicurezza \n3. Logistica \nInserisci tipo di operatore: ");
                     string tipoOp = Console.ReadLine();
                     
                     if(tipoOp == "1")
@@ -56,10 +56,14 @@ public class Program
                 case "2":
                     Console.Clear();
 
-                    for (int i = 0; i < op.Count; i++)
+                    if(op.Count > 0)
                     {
-                        Console.WriteLine(op[i]);
+                        for (int i = 0; i < op.Count; i++)
+                        {
+                            Console.WriteLine(op[i]);
+                        }   
                     }
+                    else { Console.WriteLine("Non sono presenti operatori in lista!"); }
                     break;
 
                 case "3":

@@ -27,6 +27,6 @@ public class OperatoreSicurezza : Operatore
 
     public override string ToString()
     {
-        return $"Nome: {Nome}, Tipo: {GetType()}, Turno: {Turno}";
+        return $"Nome: {Nome}, Tipo: {GetType().Name}, Turno: {Turno}";
     }
 }

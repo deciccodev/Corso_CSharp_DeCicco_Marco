@@ -38,7 +38,7 @@ public class Operatore
         Console.WriteLine("Operatore generico in servizio.");
     }
 
-    public virtual string ToString()
+    public override string ToString()
     {
         return $"Placeholder";
     }
