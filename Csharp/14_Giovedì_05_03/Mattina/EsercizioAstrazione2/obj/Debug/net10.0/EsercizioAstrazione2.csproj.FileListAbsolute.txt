@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\bin\Debug\net10.0\EsercizioAstrazione2.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\bin\Debug\net10.0\EsercizioAstrazione2.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\bin\Debug\net10.0\EsercizioAstrazione2.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\bin\Debug\net10.0\EsercizioAstrazione2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\bin\Debug\net10.0\EsercizioAstrazione2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\refint\EsercizioAstrazione2.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\EsercizioAstrazione2.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Mattina\EsercizioAstrazione2\obj\Debug\net10.0\ref\EsercizioAstrazione2.dll

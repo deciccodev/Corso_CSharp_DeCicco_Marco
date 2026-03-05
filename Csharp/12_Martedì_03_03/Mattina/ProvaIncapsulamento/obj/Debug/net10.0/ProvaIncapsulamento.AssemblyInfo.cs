@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaIncapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d161005e4a52d7070579d6da31f177daf877ad39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530f00c0d6868a80d5c6f91fd9c3d18c107bfd0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaIncapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaIncapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
