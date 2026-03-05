@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\bin\Debug\net10.0\EsRecapFinale.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\bin\Debug\net10.0\EsRecapFinale.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\bin\Debug\net10.0\EsRecapFinale.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\bin\Debug\net10.0\EsRecapFinale.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\bin\Debug\net10.0\EsRecapFinale.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\refint\EsRecapFinale.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\EsRecapFinale.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\14_Giovedì_05_03\Pomeriggio\EsRecapFinale\obj\Debug\net10.0\ref\EsRecapFinale.dll

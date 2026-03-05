@@ -41,4 +41,9 @@ public abstract class Persona
     }
 
     public abstract Ruoli ControllaRuolo();
+
+    public override string ToString()
+    {
+        return $"Placeholder tostring persona";
+    }
 }

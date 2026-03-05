@@ -17,4 +17,8 @@ public class Impiegato : Persona
         return _ruolo;
     }
 
+    public override string ToString()
+    {
+        return $"Nome: {Nome}, Cognome: {Cognome}, Ruolo: {Ruolo}, Codice Badge: {Badge.CodiceBadge}";
+    }
 }

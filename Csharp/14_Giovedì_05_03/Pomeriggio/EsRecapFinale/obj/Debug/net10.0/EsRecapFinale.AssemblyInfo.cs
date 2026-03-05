@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsRecapFinale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ecc5a46a61274de70c6c8ae7fd5e21893973bb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d39543bcc8050bfc7e22de52832382917b879677")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsRecapFinale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsRecapFinale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
