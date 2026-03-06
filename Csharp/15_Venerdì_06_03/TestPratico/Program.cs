@@ -15,7 +15,6 @@ public class Program
             Console.WriteLine("[2] Elimina un animale in lista");
             Console.WriteLine("[3] Filtra lista per tipo animale");
             Console.WriteLine("[4] Fai emettere il loro verso a tutti gli animali");
-            Console.WriteLine("[5] Stampa info Animali");
             Console.WriteLine("[6] Esci");
             Console.Write("Scelta: ");
             string scelta = Console.ReadLine();
@@ -53,7 +52,7 @@ public class Program
 
                         animali.Add(new Gallina(nome, eta, quantitaUova));
                     }
-                    else if (tipoAnimale == 2)
+                    else if (tipoAnimale == 3)
                     {
                         Console.Write("Inserisci nome: ");
                         string nome = Console.ReadLine();
@@ -64,7 +63,7 @@ public class Program
 
                         animali.Add(new Pecora(nome, eta, quantitaLana));
                     }
-                    else if (tipoAnimale == 2)
+                    else if (tipoAnimale == 4)
                     {
                         Console.Write("Inserisci nome: ");
                         string nome = Console.ReadLine();
@@ -107,7 +106,7 @@ public class Program
                     }
                     break;
 
-                case "3": //Chiedo all'utente di scrivere il tipo che vuole ricercare e controllo che quello che ha scritto sia uguale al nome della classe per mostrare tutti gli animali presenti in in lista di quella classe
+                case "3": //Chiedo all'utente di scrivere il tipo che vuole ricercare e controllo che quello che ha scritto sia uguale al nome della classe per mostrare tutti gli animali presenti in in lista di quella classe e le loro info
                     if (animali.Count == 0)
                     {
                         Console.WriteLine("Non ci sono animali nella lista.");
@@ -121,7 +120,7 @@ public class Program
                     for (int i = 0; i < animali.Count; i++)
                     {
                         if (tipo == animali[i].GetType().Name)
-                            Console.WriteLine($"{i} - {animali[i].GetType().Name}");
+                            Console.WriteLine($"{i} - {animali[i].MostraInfo()}");
                     }
 
                     break;
@@ -135,16 +134,7 @@ public class Program
                     }
                     break;
 
-                case "5": //Richiamo il metodo polimofico MostraInfo sulla lista animale in modo da stampare le info per ogni animale specifico
-                    Console.WriteLine("Stampa info animali presenti in lista:\n");
-
-                    foreach (var a in animali)
-                    {
-                        a.MostraInfo();
-                    }
-                    break;
-
-                case "6": //Chiudo il programma impostando la condizione di uscita del loop a false
+                case "5": //Chiudo il programma impostando la condizione di uscita del loop a false
                     Console.WriteLine("Chiusura programma...");
                     continua = false;
                     break;
