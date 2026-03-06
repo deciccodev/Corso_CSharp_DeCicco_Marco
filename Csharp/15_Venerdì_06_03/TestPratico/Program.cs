@@ -15,13 +15,15 @@ public class Program
             Console.WriteLine("[2] Elimina un animale in lista");
             Console.WriteLine("[3] Filtra lista per tipo animale");
             Console.WriteLine("[4] Fai emettere il loro verso a tutti gli animali");
-            Console.WriteLine("[6] Esci");
+            Console.WriteLine("[5] Esci");
             Console.Write("Scelta: ");
             string scelta = Console.ReadLine();
 
             switch (scelta)
             {
                 case "1": //Case che gestisce la creazione di un nuovo animale. Gestisco il tipo tramite if-else dopo la scelta dell'utente 
+                    Console.Clear();
+                    
                     Console.WriteLine("Che animale vuoi aggiungere?");
                     Console.WriteLine("[1] Mucca");
                     Console.WriteLine("[2] Gallina");
@@ -79,6 +81,8 @@ public class Program
                     break;
 
                 case "2": //Mostro la lista degli animali presenti, chiedo all'utente l'indice dell'animale da eliminare
+                    Console.Clear();
+                    
                     if (animali.Count == 0)
                     {
                         Console.WriteLine("Non ci sono animali nella lista.");
@@ -107,6 +111,8 @@ public class Program
                     break;
 
                 case "3": //Chiedo all'utente di scrivere il tipo che vuole ricercare e controllo che quello che ha scritto sia uguale al nome della classe per mostrare tutti gli animali presenti in in lista di quella classe e le loro info
+                    Console.Clear();
+                    
                     if (animali.Count == 0)
                     {
                         Console.WriteLine("Non ci sono animali nella lista.");
@@ -126,6 +132,8 @@ public class Program
                     break;
 
                 case "4": //Richiamo il metodo polimofico Verso sulla lista animale in modo che ogni animale produca il proprio verso
+                    Console.Clear();
+                    
                     Console.WriteLine("Riproduzione verso animali presenti in lista:\n");
 
                     foreach (var a in animali)
