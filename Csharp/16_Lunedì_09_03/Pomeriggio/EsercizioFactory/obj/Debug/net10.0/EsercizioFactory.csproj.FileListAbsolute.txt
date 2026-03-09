@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\bin\Debug\net10.0\EsercizioFactory.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\bin\Debug\net10.0\EsercizioFactory.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\bin\Debug\net10.0\EsercizioFactory.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\bin\Debug\net10.0\EsercizioFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\bin\Debug\net10.0\EsercizioFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\refint\EsercizioFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\EsercizioFactory.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\EsercizioFactory\obj\Debug\net10.0\ref\EsercizioFactory.dll

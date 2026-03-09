@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\bin\Debug\net10.0\ProveFactory.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\bin\Debug\net10.0\ProveFactory.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\bin\Debug\net10.0\ProveFactory.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\bin\Debug\net10.0\ProveFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\bin\Debug\net10.0\ProveFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\refint\ProveFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ProveFactory.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Pomeriggio\ProveFactory\obj\Debug\net10.0\ref\ProveFactory.dll
