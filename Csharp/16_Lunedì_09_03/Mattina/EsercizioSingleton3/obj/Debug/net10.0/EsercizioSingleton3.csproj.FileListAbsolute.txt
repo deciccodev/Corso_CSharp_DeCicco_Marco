@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\bin\Debug\net10.0\EsercizioSingleton3.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\bin\Debug\net10.0\EsercizioSingleton3.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\bin\Debug\net10.0\EsercizioSingleton3.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\bin\Debug\net10.0\EsercizioSingleton3.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\bin\Debug\net10.0\EsercizioSingleton3.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\refint\EsercizioSingleton3.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\EsercizioSingleton3.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\EsercizioSingleton3\obj\Debug\net10.0\ref\EsercizioSingleton3.dll

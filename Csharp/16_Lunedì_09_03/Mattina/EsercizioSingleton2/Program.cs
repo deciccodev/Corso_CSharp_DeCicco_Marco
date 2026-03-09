@@ -3,18 +3,16 @@
     public static void Main(string[] args)
     {
         ConfigurazioneSistema ModuloA = ConfigurazioneSistema.GetInstance();
-        ModuloA.Imposta("abc", "- prima configurazione");
-        Console.WriteLine();
+        
+        ModuloA.Imposta("abc", "prima configurazione");
         ModuloA.Leggi("abc");
-        Console.WriteLine($"HashCode logger1: {ModuloA.GetHashCode()}\n");
+        Console.WriteLine($"HashCode Modulo A: {ModuloA.GetHashCode()}\n");
 
         ConfigurazioneSistema ModuloB = ConfigurazioneSistema.GetInstance();
         
-        ModuloB.Imposta("def", "- seconda configurazione");
-        Console.WriteLine();
-        ModuloB.Imposta("abc", "- modifica prima configurazione di modulo a da modulo b");
-        Console.WriteLine();
+        ModuloB.Imposta("def", "seconda configurazione");
+        ModuloB.Imposta("abc", "modifica prima configurazione di modulo a da modulo b");
         ModuloB.StampaTutte();
-        Console.WriteLine($"HashCode logger2: {ModuloA.GetHashCode()}\n");
+        Console.WriteLine($"HashCode Modulo B: {ModuloA.GetHashCode()}\n");
     }
 }

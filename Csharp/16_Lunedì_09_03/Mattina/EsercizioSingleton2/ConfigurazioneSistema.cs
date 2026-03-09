@@ -41,7 +41,7 @@ public sealed class ConfigurazioneSistema
         Console.WriteLine($"Stampa di tutte le configurazioni presenti:");
         foreach (var v in dizionario)
         {
-            Console.WriteLine($"{v.Key} {v.Value}");
+            Console.WriteLine($"{v.Key} - {v.Value}");
         }
     }
 }
