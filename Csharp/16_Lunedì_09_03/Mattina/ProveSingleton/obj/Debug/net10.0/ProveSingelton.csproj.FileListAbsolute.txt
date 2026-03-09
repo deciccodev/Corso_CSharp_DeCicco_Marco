@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\bin\Debug\net10.0\ProveSingelton.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\bin\Debug\net10.0\ProveSingelton.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\bin\Debug\net10.0\ProveSingelton.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\bin\Debug\net10.0\ProveSingelton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\bin\Debug\net10.0\ProveSingelton.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\refint\ProveSingelton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ProveSingelton.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\16_Lunedì_09_03\Mattina\ProveSingleton\obj\Debug\net10.0\ref\ProveSingelton.dll
