@@ -1,8 +1,8 @@
-﻿class Program
+﻿public class Program
 {
     static void Main()
     {
-        GestoreCreazioneUtente gestore = new GestoreCreazioneUtente();
+        GestoreCreazioneUtente gestore = GestoreCreazioneUtente.GetInstance();
 
         IObserver log = new ModuloLog();
         IObserver marketing = new ModuloMarketing();
