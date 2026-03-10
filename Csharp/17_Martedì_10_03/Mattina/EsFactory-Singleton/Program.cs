@@ -8,7 +8,6 @@ public class Program
         List<IDispositivo> dispositivi = new List<IDispositivo>();
 
         bool continua = true;
-        int moduloScelto = 0;
 
         while (continua)
         {
