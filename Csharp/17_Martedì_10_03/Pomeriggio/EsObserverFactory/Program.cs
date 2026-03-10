@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         GestoreCreazioneUtente gestore = GestoreCreazioneUtente.GetInstance();
 
@@ -14,16 +14,30 @@
 
         while (continua)
         {
-            Console.Write("Inserisci nome utente: ");
-            string nome = Console.ReadLine();
-
-            gestore.CreaUtente(nome);
-            Console.WriteLine();
-
-            Console.Write("Creare altri utenti? (no per uscire): ");
+            Console.WriteLine("Cosa vuoi fare?");
+            Console.WriteLine("[1] Inserisci Utente");
+            Console.WriteLine("[2] Esci");
+            Console.Write("Scelta: ");
             string scelta = Console.ReadLine();
 
-            if (scelta.ToLower() == "no") { continua = false; }
+            switch (scelta)
+            {
+                case "1":
+                    Console.Write("Inserisci nome utente: ");
+                    string nome = Console.ReadLine();
+
+                    gestore.CreaUtente(nome);
+                    Console.WriteLine();
+                    break;
+
+                case "2":
+                    Console.WriteLine("Escita programma...");
+                    continua = false;
+                    Console.WriteLine();
+                    break;
+                default:
+                    throw new Exception("Scelta non valida");
+            }
         }
     }
 }
