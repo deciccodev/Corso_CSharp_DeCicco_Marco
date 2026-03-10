@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\bin\Debug\net10.0\EsFactory-Singleton.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\bin\Debug\net10.0\EsFactory-Singleton.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\bin\Debug\net10.0\EsFactory-Singleton.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\bin\Debug\net10.0\EsFactory-Singleton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\bin\Debug\net10.0\EsFactory-Singleton.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\refint\EsFactory-Singleton.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\EsFactory-Singleton.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsFactory-Singleton\obj\Debug\net10.0\ref\EsFactory-Singleton.dll
