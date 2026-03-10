@@ -9,11 +9,11 @@ public abstract class DecoratoreBevanda : IBevanda
 
     public virtual double Costo()
     {
-        throw new NotImplementedException();
+        return _component.Costo();
     }
 
     public virtual string Descrizione()
     {
-        throw new NotImplementedException();
+        return _component.Descrizione();
     }
 }

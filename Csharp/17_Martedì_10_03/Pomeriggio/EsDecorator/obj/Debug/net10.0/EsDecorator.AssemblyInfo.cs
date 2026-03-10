@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1311185cf18d1083c40e74354975eaf2e9f398f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74ad09036b1ebb46512af3253529ec3de3fc3cb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsDecorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

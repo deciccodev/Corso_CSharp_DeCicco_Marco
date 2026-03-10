@@ -1,7 +1,7 @@
 public class Caffe : IBevanda
 {
     public double _costo = 1.00d;
-    public string _descrizione = "Caffè";
+    public string _descrizione = "Caffè base";
 
     public double Costo()
     {

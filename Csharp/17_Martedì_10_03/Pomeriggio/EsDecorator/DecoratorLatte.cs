@@ -8,9 +8,9 @@ public class DecoratorLatte : DecoratoreBevanda
     {
         double costoBase = base.Costo();
         Console.WriteLine($"Costo prima del latte: {costoBase}");
-        double costoLatte = costoBase + 0.20d;
-        Console.WriteLine($"Costo dopo aggiunta del latte: {costoLatte}");
-        return costoLatte;
+        double costoLatte = 0.20d;
+        Console.WriteLine($"Costo aggiunta del latte: {costoLatte}");
+        return costoBase + costoLatte;
     }
 
     public override string Descrizione()

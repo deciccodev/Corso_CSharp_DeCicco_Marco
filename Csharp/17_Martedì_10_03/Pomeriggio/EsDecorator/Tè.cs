@@ -1,7 +1,7 @@
 public class Te : IBevanda
 {
     public double _costo = 1.50d;
-    public string _descrizione = "Tè";
+    public string _descrizione = "Tè base";
 
     public double Costo()
     {
