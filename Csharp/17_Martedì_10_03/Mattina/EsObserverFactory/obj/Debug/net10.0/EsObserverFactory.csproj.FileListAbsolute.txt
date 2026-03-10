@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\bin\Debug\net10.0\EsObserverFactory.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\bin\Debug\net10.0\EsObserverFactory.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\bin\Debug\net10.0\EsObserverFactory.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\bin\Debug\net10.0\EsObserverFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\bin\Debug\net10.0\EsObserverFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\refint\EsObserverFactory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\EsObserverFactory.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserverFactory\obj\Debug\net10.0\ref\EsObserverFactory.dll
