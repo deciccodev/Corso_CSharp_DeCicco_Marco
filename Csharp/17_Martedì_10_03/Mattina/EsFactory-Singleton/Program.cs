@@ -3,7 +3,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        ConfigurazioneSistema config = ConfigurazioneSistema.Instance;
+        ConfigurazioneSistema modA = ConfigurazioneSistema.Instance;
+        ConfigurazioneSistema modB = ConfigurazioneSistema.Instance;
 
         List<IDispositivo> dispositivi = new List<IDispositivo>();
 
@@ -24,12 +25,12 @@ public class Program
             {
                 case "1":
                     Console.WriteLine("\n--- MODULO A ---");
-                    MenuConfigurazione(config, dispositivi);
+                    MenuConfigurazione(modA, dispositivi);
                     break;
 
                 case "2":
                     Console.WriteLine("\n--- MODULO B ---");
-                    MenuConfigurazione(config, dispositivi);
+                    MenuConfigurazione(modB, dispositivi);
                     break;
 
                 case "3":
