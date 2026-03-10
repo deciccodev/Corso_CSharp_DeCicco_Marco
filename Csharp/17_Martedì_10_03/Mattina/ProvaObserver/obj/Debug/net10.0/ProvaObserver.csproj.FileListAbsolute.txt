@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\bin\Debug\net10.0\ProvaObserver.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\bin\Debug\net10.0\ProvaObserver.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\bin\Debug\net10.0\ProvaObserver.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\bin\Debug\net10.0\ProvaObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\bin\Debug\net10.0\ProvaObserver.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\refint\ProvaObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ProvaObserver.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\ProvaObserver\obj\Debug\net10.0\ref\ProvaObserver.dll

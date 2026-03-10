@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\bin\Debug\net10.0\EsObserver.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\bin\Debug\net10.0\EsObserver.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\bin\Debug\net10.0\EsObserver.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\bin\Debug\net10.0\EsObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\bin\Debug\net10.0\EsObserver.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\refint\EsObserver.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\EsObserver.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Mattina\EsObserver\obj\Debug\net10.0\ref\EsObserver.dll
