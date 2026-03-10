@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\bin\Debug\net10.0\ProvaDecorator.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\bin\Debug\net10.0\ProvaDecorator.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\bin\Debug\net10.0\ProvaDecorator.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\bin\Debug\net10.0\ProvaDecorator.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\bin\Debug\net10.0\ProvaDecorator.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\refint\ProvaDecorator.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ProvaDecorator.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\17_Martedì_10_03\Pomeriggio\ProvaDecorator\obj\Debug\net10.0\ref\ProvaDecorator.dll
