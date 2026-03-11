@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\bin\Debug\net10.0\EsDecorator-Factory.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\bin\Debug\net10.0\EsDecorator-Factory.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\bin\Debug\net10.0\EsDecorator-Factory.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\bin\Debug\net10.0\EsDecorator-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\bin\Debug\net10.0\EsDecorator-Factory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\refint\EsDecorator-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\EsDecorator-Factory.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsDecorator-Factory\obj\Debug\net10.0\ref\EsDecorator-Factory.dll
