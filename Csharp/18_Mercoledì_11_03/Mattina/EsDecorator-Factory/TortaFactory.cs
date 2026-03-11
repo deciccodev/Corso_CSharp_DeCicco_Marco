@@ -1,6 +1,6 @@
-public static class TortaFactory
+public static class TortaFactory //classe statica del pattern factory method, si occupa di creare gli oggetti reali alla necessità
 {
-    public static ITorta CreaTortaBase(string torta)
+    public static ITorta CreaTortaBase(string torta) //metodo per creare i vari tipi di oggetti presenti nella factory
     {
         string tipo = torta.ToLower();
 

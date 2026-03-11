@@ -1,4 +1,4 @@
-public class TortaFrutta : ITorta
+public class TortaFrutta : ITorta //classe reale di un oggetto base torta 
 {
     public string Descrizione()
     {

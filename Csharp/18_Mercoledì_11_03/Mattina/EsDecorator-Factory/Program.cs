@@ -2,13 +2,13 @@
 {
     public static void Main(string[] args)
     {
-        CreatoreTorte creatoreTorte = CreatoreTorte.GetInstance();
+        CreatoreTorte creatoreTorte = CreatoreTorte.GetInstance(); //istanza singleton della classe CreatoreTorte (subject del pattern observer)
 
         creatoreTorte.AggiungiObserver(new DisplayOrdini());
 
         bool continua = true;
 
-        while (continua)
+        while (continua) //loop del menù base in cui si crea la base della torta
         {
             Console.WriteLine("Scegli una torta base");
             Console.WriteLine("[1] Torta al cioccolato");
@@ -24,21 +24,21 @@
                     ITorta tortaCioccolato = TortaFactory.CreaTortaBase("cioccolato");
                     Console.WriteLine($"Al momento hai una {tortaCioccolato.Descrizione()}");
                     Console.WriteLine();
-                    Decora(tortaCioccolato);
+                    Decora(tortaCioccolato); //richiamo il metodo decora per gestire la creazione dell'oggetto
                     break;
 
                 case 2:
                     ITorta tortaVaniglia = TortaFactory.CreaTortaBase("vaniglia");
                     Console.WriteLine($"Al momento hai una {tortaVaniglia.Descrizione()}");
                     Console.WriteLine();
-                    Decora(tortaVaniglia);
+                    Decora(tortaVaniglia); //richiamo il metodo decora per gestire la creazione dell'oggetto
                     break;
 
                 case 3:
                     ITorta tortaFrutta = TortaFactory.CreaTortaBase("frutta");
                     Console.WriteLine($"Al momento hai una {tortaFrutta.Descrizione()}");
                     Console.WriteLine();
-                    Decora(tortaFrutta);
+                    Decora(tortaFrutta); //richiamo il metodo decora per gestire la creazione dell'oggetto
                     break;
                     
                 case 4:
@@ -54,11 +54,11 @@
 
     public static void Decora(ITorta torta)
     {
-        ITorta tortaFinale = torta;
+        ITorta tortaFinale = torta; //creo l'oggetto itorta partendo dalla base torta che è stato passato al metodo
 
         bool loop = true;
 
-        while (loop)
+        while (loop) //loop per gestire l'aggiunta delle decorazioni
         {
             Console.WriteLine("Aggiungere altro? ");
             Console.WriteLine("[1] Panna");
@@ -92,8 +92,8 @@
             }
         }
 
-        Console.WriteLine(tortaFinale.Descrizione());
-        CreatoreTorte.GetInstance().RegistraOrdine(tortaFinale);
+        Console.WriteLine(tortaFinale.Descrizione()); //stampo l'oggetto finale con le eventuali decorazioni scelte
+        CreatoreTorte.GetInstance().RegistraOrdine(tortaFinale); //notifico il cambio di stato agli observer
         Console.WriteLine();
     }
 }
