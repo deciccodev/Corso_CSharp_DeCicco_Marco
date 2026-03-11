@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\bin\Debug\net10.0\ProvaStrategy.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\bin\Debug\net10.0\ProvaStrategy.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\bin\Debug\net10.0\ProvaStrategy.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\bin\Debug\net10.0\ProvaStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\bin\Debug\net10.0\ProvaStrategy.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\refint\ProvaStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ProvaStrategy.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\ProvaStrategy\obj\Debug\net10.0\ref\ProvaStrategy.dll

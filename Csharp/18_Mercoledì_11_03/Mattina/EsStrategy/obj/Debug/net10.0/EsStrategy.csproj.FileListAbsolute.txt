@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\bin\Debug\net10.0\EsStrategy.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\bin\Debug\net10.0\EsStrategy.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\bin\Debug\net10.0\EsStrategy.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\bin\Debug\net10.0\EsStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\bin\Debug\net10.0\EsStrategy.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\refint\EsStrategy.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\EsStrategy.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Mattina\EsStrategy\obj\Debug\net10.0\ref\EsStrategy.dll
