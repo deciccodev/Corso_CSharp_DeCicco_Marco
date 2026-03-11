@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\bin\Debug\net10.0\EsStrategy-Factory.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\bin\Debug\net10.0\EsStrategy-Factory.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\bin\Debug\net10.0\EsStrategy-Factory.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\bin\Debug\net10.0\EsStrategy-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\bin\Debug\net10.0\EsStrategy-Factory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\refint\EsStrategy-Factory.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\EsStrategy-Factory.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\EsStrategy-Factory\obj\Debug\net10.0\ref\EsStrategy-Factory.dll
