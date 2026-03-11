@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es5Pattern", "Es5Pattern.csproj", "{0F3033F2-C2AD-7F77-0F6C-156F4AE989DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3033F2-C2AD-7F77-0F6C-156F4AE989DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3033F2-C2AD-7F77-0F6C-156F4AE989DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3033F2-C2AD-7F77-0F6C-156F4AE989DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3033F2-C2AD-7F77-0F6C-156F4AE989DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3509CF13-D73E-41D2-9420-325A0155EDB8}
+	EndGlobalSection
+EndGlobal

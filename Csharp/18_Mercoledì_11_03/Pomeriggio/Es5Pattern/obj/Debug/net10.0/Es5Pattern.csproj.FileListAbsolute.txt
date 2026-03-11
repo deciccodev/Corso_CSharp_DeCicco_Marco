@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\bin\Debug\net10.0\Es5Pattern.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\bin\Debug\net10.0\Es5Pattern.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\bin\Debug\net10.0\Es5Pattern.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\bin\Debug\net10.0\Es5Pattern.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\bin\Debug\net10.0\Es5Pattern.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\refint\Es5Pattern.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\Es5Pattern.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\18_Mercoledì_11_03\Pomeriggio\Es5Pattern\obj\Debug\net10.0\ref\Es5Pattern.dll
