@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\bin\Debug\net10.0\ProvaFacade.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\bin\Debug\net10.0\ProvaFacade.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\bin\Debug\net10.0\ProvaFacade.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\bin\Debug\net10.0\ProvaFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\bin\Debug\net10.0\ProvaFacade.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\refint\ProvaFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ProvaFacade.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\ProvaFacade\obj\Debug\net10.0\ref\ProvaFacade.dll

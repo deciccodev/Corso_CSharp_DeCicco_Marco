@@ -1,0 +1,15 @@
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\bin\Debug\net10.0\EsFacade.exe
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\bin\Debug\net10.0\EsFacade.deps.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\bin\Debug\net10.0\EsFacade.runtimeconfig.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\bin\Debug\net10.0\EsFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\bin\Debug\net10.0\EsFacade.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.AssemblyInfoInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.AssemblyInfo.cs
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.csproj.CoreCompileInputs.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.sourcelink.json
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\refint\EsFacade.dll
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.pdb
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\EsFacade.genruntimeconfig.cache
+C:\Users\decic\Documents\GitHub\Corso_CSharp_DeCicco_Marco\Csharp\19_Giovedì_12_03\Mattina\EsFacade\obj\Debug\net10.0\ref\EsFacade.dll
