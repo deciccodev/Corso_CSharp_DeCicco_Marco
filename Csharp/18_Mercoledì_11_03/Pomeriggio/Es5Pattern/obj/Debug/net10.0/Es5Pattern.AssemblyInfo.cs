@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Es5Pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88fad193d440c403144b175f1912b0c85ca5f187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08141f9fe3ad1e892f8c3a2b130c4403b688cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Es5Pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Es5Pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
